@@ -45,3 +45,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 * News API has a lot of repeating news, so I looped through the news that was fetched from News API, found which news articles were repeats, and stored all of the non-repetitve news in an array to display 
 * The "Everything" endpoint for News API does not have any option to filter by category, so all my news comes from the "Top Headlines" endpoint
 * Material UI styles were difficult to work with because next.js uses server-side rendering
+* Favicon is a little newspaper

@@ -38,6 +38,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ### Category Selection Menu
 * When the window is minimized to a small enough size, a menu/drawer icon will appear on the left of the navigation bar, and if clicked the user can select a category of news to look at
 
+### News Articles
+* Clicking on the news articles that are displayed will link to the news content
+
 ## Challenges
 * News API has a lot of repeating news, so I had to figure out a way to not display the duplicate news
 * The "Everything" endpoint for News API does not have any option to filter by category, so all my news comes from the "Top Headlines" endpoint

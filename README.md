@@ -1,4 +1,4 @@
-# Capital One Software Engineering Summit Winter 2021
+# (Winner) Capital One Software Engineering Summit Winter 2021
 Submission for the second round of the Capital One Software Engineering Summit.
 
 The final project can be found [here](https://mirandaliu-capital-one.herokuapp.com/)
